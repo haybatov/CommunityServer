@@ -4526,7 +4526,7 @@
       <Version>3.1.13</Version>
     </PackageReference>
     <PackageReference Include="jQuery.UI.Combined">
-      <Version>1.12.1</Version>
+      <Version>1.13.2</Version>
     </PackageReference>
     <PackageReference Include="libphonenumber-csharp">
       <Version>8.12.30</Version>
